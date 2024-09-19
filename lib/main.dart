@@ -32,7 +32,7 @@ class Home extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
                         Text(
-                          "Naresh Dhanuk",
+                          "Naresh",
                           style: TextStyle(
                             fontSize: 25,
                             fontFamily: 'nob',
@@ -76,7 +76,7 @@ class Home extends StatelessWidget {
                         SizedBox(
                           width: 30,
                         ),
-                        Text("Baijanath Secondry School",
+                        Text("Baijanath School",
                             style: TextStyle(
                               fontSize: 15,
                               fontFamily: 'inormal',
@@ -119,7 +119,7 @@ class Home extends StatelessWidget {
                           width: 30,
                         ),
                         Text(
-                          "nareshdhanuk21@gmail.com",
+                          "naresh.example@gmail.com",
                           style: TextStyle(
                             fontSize: 15,
                             fontFamily: 'inormal',
@@ -141,7 +141,7 @@ class Home extends StatelessWidget {
                         SizedBox(
                           width: 30,
                         ),
-                        Text("+(977) 9810775265",
+                        Text("+(977) 9810000000",
                             style: TextStyle(
                               fontSize: 15,
                               fontFamily: 'inormal',
